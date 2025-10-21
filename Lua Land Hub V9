@@ -26,7 +26,7 @@ textLabel.Font = Enum.Font.Code
 textLabel.Text = ""
 
 sound.Parent = frame
-sound.SoundId = "rbxassetid://134105529" -- Disturbia - Rihanna
+sound.SoundId = "rbxassetid://1072995" -- Disturbia - Rihanna
 sound.Volume = 15
 sound:Play()
 
